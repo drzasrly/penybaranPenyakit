@@ -1,5 +1,6 @@
 // Inisialisasi peta menggunakan Leaflet.js
-const map = L.map('map').setView([-2.5489, 118.0149], 5); // Fokus pada Indonesia
+//const map = L.map('map').setView([-2.5489, 118.0149], 5); // Fokus pada Indonesia
+const map = L.map('map').setView([-7.2575, 112.7521], 10); // Fokus pada Surabaya
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

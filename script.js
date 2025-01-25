@@ -1,4 +1,3 @@
-// Parameter model SIR
 const beta = 0.3; // Tingkat penularan
 const gamma = 0.1; // Tingkat penyembuhan
 const maxIterations = 200; // Batas maksimum iterasi
